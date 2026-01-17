@@ -11,7 +11,7 @@
 - セッション管理を追加
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://pathcraft.sakura.ne.jp/php04_kadai/select.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 データベースの`gs_user_table`に登録されているユーザーIDとパスワードを使用
